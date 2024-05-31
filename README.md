@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻 FullStack dev junior<br>+ 1 año de experiencia<br><br>
+💻 FullStack Developer<br>
+
+I am a passionate 22 year old software developer with over 2 years of work experience in the industry. During my professional career, I have cultivated a set of essential and strong skills, including effective communication, teamwork, problem solving, continuous learning, attention to detail, time management, and adaptability. In addition to these skills, I possess in-depth knowledge of key technologies such as Java, Spring Boot, and Oracle DB. This combination of soft and technical skills allows me to not only be a reliable professional but also a valuable resource that can significantly contribute to the success of any project I am involved in. 
+<br><br>
 
 
 ## 🌐 Socials:
